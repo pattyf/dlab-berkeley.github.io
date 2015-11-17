@@ -6,6 +6,30 @@ This site may ultimately provide an index of the [Berkeley
 D-Lab](http://dlab.berkeley.edu)'s online projects. In the meantime, check out
 these awesome projects:
 
+
+# D-Lab Workshop Materials
+
+### R
+
+- [R for Data Science](https://github.com/dlab-berkeley/R-for-Data-Science)
+
+### Python
+
+- [Regular Expressions in Python](https://github.com/dlab-berkeley/regular-expressions-in-python)
+- [Intro to Pandas](https://github.com/dlab-berkeley/introduction-to-pandas)
+- [Intro to Bokeh](https://github.com/dlab-berkeley/intro-bokeh)
+
+
+### Programming Tools
+
+- [Unix Command Line Fundamentals](https://github.com/dlab-berkeley/cornerstone-2015-unix-FUNdamentals)
+- [Git Fundamentals](https://github.com/dlab-berkeley/git-fundamentals)
+
+
+
+
+
+## Projects
  - Patty's [awesome map](http://pattyf.github.io/ucrmapper/)!
  - Your link here
 

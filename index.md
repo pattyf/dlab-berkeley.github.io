@@ -7,7 +7,7 @@ D-Lab](http://dlab.berkeley.edu)'s online projects. In the meantime, check out
 these awesome projects:
 
 
-# D-Lab Workshop Materials
+# D-Lab Programming Workshops - Training Materials
 
 ### R
 
@@ -24,6 +24,10 @@ these awesome projects:
 
 - [Unix Command Line Fundamentals](https://github.com/dlab-berkeley/cornerstone-2015-unix-FUNdamentals)
 - [Git Fundamentals](https://github.com/dlab-berkeley/git-fundamentals)
+
+
+### Stata
+- [Stata Fundamentals](https://github.com/dlab-berkeley/stata-fundamentals)
 
 
 
